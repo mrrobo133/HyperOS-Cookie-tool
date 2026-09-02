@@ -52,7 +52,7 @@ chmod +x install.sh
 Usage
 ​Run the main Python script
 ```bash 
-python tool. py
+python tool.py
 ```
 
 ### What can be done using these tokens 
