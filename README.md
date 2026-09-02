@@ -34,7 +34,7 @@ This tool is designed to simplify capturing and utilizing Xiaomi account session
 Clone the repository and run the setup script:
 
 ```bash
-git clone 
+git clone https://github.com/mrrobo133/HyperOS-Cookie-tool.git
 ```
 ```bash
 cd HyperOS-Cookie-Deed-In-Cookie-Show-In-Eyes
