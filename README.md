@@ -37,7 +37,7 @@ Clone the repository and run the setup script:
 git clone https://github.com/mrrobo133/HyperOS-Cookie-tool.git
 ```
 ```bash
-cd HyperOS-Cookie-Deed-In-Cookie-Show-In-Eyes
+cd HyperOS-Cookie-tool
 ```
 ```bash
 pip install colorama
